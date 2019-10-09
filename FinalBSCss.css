@@ -31,7 +31,7 @@ hr {
 	   border-color: #F05F44; 
 	   margin-top: 10.1em;
 }
-button{
+.mate{
 	text-align: center;
 	margin-top: 5px;
 	margin-bottom: 50px;
@@ -39,18 +39,14 @@ button{
 	border-radius: 40px;
 	padding: 1em 2em;
 	transition: 0.8s;
+	background-color: #F05F44;
+	border-color: #F05F44;
+	text-transform: uppercase;
 }
-
-button:hover{
+.mate:hover{
 	background-color: green;
 	border-color: green;
 	font-size: 20px;
 	color:white;
-
-}
-.mate{
-	background-color: #F05F44;
-	border-color: #F05F44;
-	text-transform: uppercase;
 
 }
