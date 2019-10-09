@@ -31,7 +31,7 @@ hr {
 	   border-color: #F05F44; 
 	   margin-top: 10.1em;
 }
-.btn{
+button{
 	text-align: center;
 	margin-top: 5px;
 	margin-bottom: 50px;
@@ -41,7 +41,7 @@ hr {
 	transition: 0.8s;
 }
 
-.btn:hover{
+button:hover{
 	background-color: green;
 	border-color: green;
 	font-size: 20px;
